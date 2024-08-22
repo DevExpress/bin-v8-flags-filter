@@ -32,11 +32,8 @@
   },
   "homepage": "https://github.com/inikulin/bin-v8-flags-filter#readme",
   "devDependencies": {
+    "@testcafe/publish-please": "^5.6.0",
     "eslint": "^2.9.0",
-    "mocha": "^3.2.0",
-    "publish-please": "^5.5.2"
-  },
-  "overrides": {
-    "lodash": "^4.17.21"
+    "mocha": "^10.0.0"
   }
 }
